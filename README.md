@@ -1,1 +1,3 @@
 # GAMTEST
+
+Testing smart commit
